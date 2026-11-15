@@ -1,12 +1,12 @@
 # Demon of the Crown（デーモン・クラウン）― アルファテスト版
 
-個人で開発しているゲームのアルファテスト版です。未完成で、不具合があります。無料です。
-
 ## ダウンロード
 **[DemonCrown-0.1.0-alpha-win64-setup.exe（インストーラー・709 MB）](https://github.com/ringo7pie/demoncrown/releases/download/v0.1.0-alpha/DemonCrown-0.1.0-alpha-win64-setup.exe)**
 
 - 上のリンクを押すと、ダウンロードが始まります。ダウンロードの前に、下の「プレイ記録の送信」を必ずお読みください。
 - [SHA-256 のファイル](https://github.com/ringo7pie/demoncrown/releases/download/v0.1.0-alpha/DemonCrown-0.1.0-alpha-win64-setup.exe.sha256) ／ [リリースのページ](https://github.com/ringo7pie/demoncrown/releases/tag/v0.1.0-alpha)（このページの右の「Releases」からも開けます）
+
+個人で開発しているゲームのアルファテスト版です。未完成で、不具合があります。無料です。
 
 予告動画: https://youtu.be/uC_fTwHhQyI
 
