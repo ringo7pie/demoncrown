@@ -33,7 +33,7 @@
 3. 消すときは、Windows の「アプリ」からアンインストールできます。セーブと設定（%APPDATA%\DungeonQuest）は残ります。
 
 ## 不具合の報告・感想
-- 不具合の報告: https://docs.google.com/forms/d/e/1FAIpQLSdFZXD9XqColYJ_l4s-xCNofeS_jLgcHK5xii88xZmv9HiOgQ/viewform（F12 の「記録の送信」に出る 8 文字の ID を添えてもらえると、調べやすくなります）
+- 不具合の報告: https://forms.gle/Hv767PDzebpdgLKn9（F12 の「記録の送信」に出る 8 文字の ID を添えてもらえると、調べやすくなります）
 - 感想は、YouTube の予告動画のコメント欄へお願いします。
 - 再配布・販売はしないでください。
 
@@ -50,4 +50,4 @@ Download: pick setup.exe from "Releases" on the right of this page.
 - Play data: you can play only if you agree to send play data (recognized text of what you say, companions' actions, progress, settings, PC specs, errors, the country you connect from, a random anonymous ID used to tell whether records come from the same player; your IP address is not recorded). Audio is never sent. As a rule, requests to delete data already sent are not accepted (except where the law requires it). The full text is shown on the first launch and in the README.
 - Requirements: Windows 10 / 11 (64-bit), a GPU that supports Vulkan or Direct3D 12 (tuned on an RTX 3070). About 10 GB of voice tools are downloaded after the first launch (about 16 GB of free space needed).
 - The installer is not signed; Windows may show a SmartScreen warning. Please do not redistribute or sell this build.
-- Bug reports: https://docs.google.com/forms/d/e/1FAIpQLSdFZXD9XqColYJ_l4s-xCNofeS_jLgcHK5xii88xZmv9HiOgQ/viewform
+- Bug reports: https://forms.gle/Hv767PDzebpdgLKn9
