@@ -2,7 +2,12 @@
 
 個人で開発しているゲームのアルファテスト版です。未完成で、不具合があります。無料です。
 
-ダウンロード: このページの右の「Releases」から、setup.exe を選んでください。
+## ダウンロード
+**[DemonCrown-0.1.0-alpha-win64-setup.exe（インストーラー・709 MB）](https://github.com/ringo7pie/demoncrown/releases/download/v0.1.0-alpha/DemonCrown-0.1.0-alpha-win64-setup.exe)**
+
+- 上のリンクを押すと、ダウンロードが始まります。ダウンロードの前に、下の「プレイ記録の送信」を必ずお読みください。
+- [SHA-256 のファイル](https://github.com/ringo7pie/demoncrown/releases/download/v0.1.0-alpha/DemonCrown-0.1.0-alpha-win64-setup.exe.sha256) ／ [リリースのページ](https://github.com/ringo7pie/demoncrown/releases/tag/v0.1.0-alpha)（このページの右の「Releases」からも開けます）
+
 予告動画: https://youtu.be/uC_fTwHhQyI
 
 ## どんなゲームか
@@ -28,7 +33,7 @@
 - インストール先は、短い名前の場所にしてください（フルパス 115 文字以内）。
 
 ## インストール
-1. Releases のインストーラー（setup.exe）をダウンロードして実行します。署名のない exe なので、Windows が「PC が保護されました」と出すことがあります（「詳細情報」→「実行」）。
+1. 上の「ダウンロード」のリンクからインストーラー（setup.exe）をダウンロードして実行します。署名のない exe なので、Windows が「PC が保護されました」と出すことがあります（「詳細情報」→「実行」）。
 2. SHA-256: aa0034004d933ac28b16ba421db5486f4baced8254fcb3b105753db237fbcfa2（Releases の .sha256 のファイルにも同じ値があります）
 3. 消すときは、Windows の「アプリ」からアンインストールできます。セーブと設定（%APPDATA%\DungeonQuest）は残ります。
 
@@ -41,7 +46,7 @@
 
 ## English
 An alpha test build of a game in development by a solo developer. Unfinished, with bugs. Free.
-Download: pick setup.exe from "Releases" on the right of this page.
+**Download: [DemonCrown-0.1.0-alpha-win64-setup.exe (installer, 709 MB)](https://github.com/ringo7pie/demoncrown/releases/download/v0.1.0-alpha/DemonCrown-0.1.0-alpha-win64-setup.exe)** ([SHA-256](https://github.com/ringo7pie/demoncrown/releases/download/v0.1.0-alpha/DemonCrown-0.1.0-alpha-win64-setup.exe.sha256), [release page](https://github.com/ringo7pie/demoncrown/releases/tag/v0.1.0-alpha)). Please read the play-data notice below before downloading.
 
 - Lead AI companions by voice (or typed text) through dungeons. They answer by voice, fight on their own judgment and solve puzzles with you.
 - Speech recognition, conversation and speech synthesis run on your own PC. Japanese by default; English can be chosen on the first launch.
