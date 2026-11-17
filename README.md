@@ -1,5 +1,7 @@
 # Demon of the Crown（デーモン・クラウン）― アルファテスト版
 
+<img width="1365" height="768" alt="IMZxVyzyN6nWw" src="https://github.com/user-attachments/assets/a4c5fe3e-4496-4374-bc00-de7fcf68fb2a" />
+
 ## ダウンロード
 **[DemonCrown-0.1.0-alpha-win64-setup.exe（インストーラー・709 MB）](https://github.com/ringo7pie/demoncrown/releases/download/v0.1.0-alpha/DemonCrown-0.1.0-alpha-win64-setup.exe)**
 
