@@ -34,7 +34,7 @@
 
 ## インストール
 1. 上の「ダウンロード」のリンクからインストーラー（setup.exe）をダウンロードして実行します。署名のない exe なので、Windows が「PC が保護されました」と出すことがあります（「詳細情報」→「実行」）。
-2. SHA-256: 05dfbe47dd9b9e10125c1515a39cb7aed4064f45f39e18ed45dabf77759eb8d5（Releases の .sha256 のファイルにも同じ値があります）
+2. SHA-256: 40523a22aa1fdedd55a352a1eb856a6be2c84bd339a55dca65d46b7bfb51c830（Releases の .sha256 のファイルにも同じ値があります）
 3. 消すときは、Windows の「アプリ」からアンインストールできます。セーブと設定（%APPDATA%\DungeonQuest）は残ります。
 
 ## 不具合の報告・感想
