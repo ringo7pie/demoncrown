@@ -24,9 +24,9 @@
 | ![声の指示](docs/img/voice_command.jpg) | ![「手伝って」](docs/img/help.jpg) |
 | ![ボス戦](docs/img/boss.jpg) | ![仲間の着替え](docs/img/dress.jpg) |
 
-<img width="1365" height="768" alt="IMZxVyzyN6nWw" src="https://github.com/user-attachments/assets/a4c5fe3e-4496-4374-bc00-de7fcf68fb2a" />
+![画面](docs/img/screenshot_1.png)
 
-<img width="1365" height="768" alt="IMS1dNQPPsAQA" src="https://github.com/user-attachments/assets/c7ea0c1b-33cf-400d-94ae-91f5b9fe864b" />
+![画面](docs/img/screenshot_2.png)
 
 ## 動画
 - 予告: https://youtu.be/uC_fTwHhQyI
