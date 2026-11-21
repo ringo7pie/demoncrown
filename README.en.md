@@ -2,6 +2,8 @@
 
 **A dungeon crawler where you lead AI companions with your voice. Free alpha test for Windows.**　[[日本語](README.md)]
 
+![Puzzles with your companions (alpha test playthrough)](docs/img/screenshot_2.png)
+
 ![Say "Ren, take the front" or "Sora, attack with magic" and your companions act](docs/img/voice_command_en.gif)
 
 ## Download (free)
@@ -27,7 +29,6 @@
 
 ![Screenshot](docs/img/screenshot_1.png)
 
-![Screenshot](docs/img/screenshot_2.png)
 
 ## Videos
 - Trailer: https://youtu.be/uC_fTwHhQyI
