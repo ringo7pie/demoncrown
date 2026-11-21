@@ -2,6 +2,8 @@
 
 **声で AI の仲間に指示して進む、ダンジョン探索ゲーム。無料のアルファテスト版（Windows）。**　［[English](README.en.md)］
 
+![仲間と挑む仕掛け（アルファテスト・実況プレイ）](docs/img/screenshot_2.png)
+
 ![「レンは前で」「ソラ、魔法で攻撃して」と言うと、仲間が動く](docs/img/voice_command_ja.gif)
 
 ## ダウンロード（無料）
@@ -26,7 +28,6 @@
 
 ![画面](docs/img/screenshot_1.png)
 
-![画面](docs/img/screenshot_2.png)
 
 ## 動画
 - 予告: https://youtu.be/uC_fTwHhQyI
