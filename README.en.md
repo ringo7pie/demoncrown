@@ -25,6 +25,10 @@
 | ![Voice commands](docs/img/voice_command.jpg) | !["Help me"](docs/img/help.jpg) |
 | ![Boss fight](docs/img/boss.jpg) | ![Dressing companions](docs/img/dress.jpg) |
 
+![Screenshot](docs/img/screenshot_1.png)
+
+![Screenshot](docs/img/screenshot_2.png)
+
 ## Videos
 - Trailer: https://youtu.be/uC_fTwHhQyI
 - Feature tour: https://youtu.be/dSyVj8uGO6Y
